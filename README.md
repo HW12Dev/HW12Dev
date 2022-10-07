@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @HW12Dev
-- 👀 I’m interested in Computer Programming
-- 💞️ I’m looking to collaborate on C++ Projects
+
